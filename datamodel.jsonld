@@ -39,7 +39,6 @@
         "C0": "https://uri.fiware.org/ns/data-models#C0",
         "C1": "https://uri.fiware.org/ns/data-models#C1",
         "C2": "https://uri.fiware.org/ns/data-models#C2",
-        "CCS/SAE": "https://uri.fiware.org/ns/data-models#CCS/SAE",
         "CHAdeMO": "https://uri.fiware.org/ns/data-models#CHAdeMO",
         "COD": "http://purl.org/goodrelations/v1#COD",
         "Caravan_Mains_Socket": "https://uri.fiware.org/ns/data-models#Caravan_Mains_Socket",
