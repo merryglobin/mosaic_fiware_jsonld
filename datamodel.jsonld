@@ -367,7 +367,6 @@
         "closed": "https://uri.fiware.org/ns/data-models#closed",
         "closedAbnormal": "https://uri.fiware.org/ns/data-models#closedAbnormal",
         "cng": "https://uri.fiware.org/ns/data-models#cng",
-        "co-creation": "https://uri.fiware.org/ns/data-models#co-creation",
         "co2": "https://uri.fiware.org/ns/data-models#co2",
         "coachStation": "https://uri.fiware.org/ns/data-models#coachStation",
         "coastalEvent": "https://uri.fiware.org/ns/data-models#coastalEvent",
@@ -654,7 +653,9 @@
         "fallenPatient": "https://uri.fiware.org/ns/data-models#fallenPatient",
         "falling": "https://uri.fiware.org/ns/data-models#falling",
         "farm": "https://uri.fiware.org/ns/data-models#farm",
+        "farm_auxiliary": "https://uri.fiware.org/ns/data-models#farm_auxiliary",
         "faxMachineOrService": "https://uri.fiware.org/ns/data-models#faxMachineOrService",
+        "fa\u00e7ade": "https://uri.fiware.org/ns/data-models#fa\u00e7ade",
         "feature": {
             "@id": "https://uri.fiware.org/ns/data-models#feature",
             "@type": "@vocab"
@@ -744,6 +745,7 @@
         "garageBoxes": "https://uri.fiware.org/ns/data-models#garageBoxes",
         "garages": "https://uri.fiware.org/ns/data-models#garages",
         "garbageCollection": "https://uri.fiware.org/ns/data-models#garbageCollection",
+        "garbage_shed": "https://uri.fiware.org/ns/data-models#garbage_shed",
         "garden": "https://uri.fiware.org/ns/data-models#garden",
         "gasComsumption": "https://uri.fiware.org/ns/data-models#gasComsumption",
         "gasoline": "https://uri.fiware.org/ns/data-models#gasoline",
@@ -1213,8 +1215,6 @@
         "perpendicularParking": "https://uri.fiware.org/ns/data-models#perpendicularParking",
         "pesticide": "https://uri.fiware.org/ns/data-models#pesticide",
         "petrol": "https://uri.fiware.org/ns/data-models#petrol",
-        "petrol(leaded)": "https://uri.fiware.org/ns/data-models#petrol(leaded)",
-        "petrol(unleaded)": "https://uri.fiware.org/ns/data-models#petrol(unleaded)",
         "phaseToPhaseVoltage": "https://uri.fiware.org/ns/data-models#phaseToPhaseVoltage",
         "phaseVoltage": "https://uri.fiware.org/ns/data-models#phaseVoltage",
         "phenologicalCondition": {
@@ -1486,7 +1486,6 @@
         },
         "retail": "https://uri.fiware.org/ns/data-models#retail",
         "reversedLane": "https://uri.fiware.org/ns/data-models#reversedLane",
-        "riding_hall": "https://uri.fiware.org/ns/data-models#riding_hall",
         "river": "https://uri.fiware.org/ns/data-models#river",
         "road": "https://uri.fiware.org/ns/data-models#road",
         "roadClass": {
@@ -1584,7 +1583,6 @@
         "smoke": "https://uri.fiware.org/ns/data-models#smoke",
         "snail": "https://uri.fiware.org/ns/data-models#snail",
         "snow": "https://uri.fiware.org/ns/data-models#snow",
-        "snow/ice": "https://uri.fiware.org/ns/data-models#snow/ice",
         "snowHeight": "https://uri.fiware.org/ns/data-models#snowHeight",
         "socketNumber": "https://uri.fiware.org/ns/data-models#socketNumber",
         "socketType": {
@@ -1634,7 +1632,6 @@
             "@id": "https://uri.fiware.org/ns/data-models#startedAt",
             "@type": "https://uri.etsi.org/ngsi-ld/DateTime"
         },
-        "static_caravan": "https://uri.fiware.org/ns/data-models#static_caravan",
         "status": {
             "@id": "https://uri.fiware.org/ns/data-models#status",
             "@type": "@vocab"
@@ -1734,6 +1731,7 @@
         "trafficJam": "https://uri.fiware.org/ns/data-models#trafficJam",
         "trailer": "https://uri.fiware.org/ns/data-models#trailer",
         "trainStation": "https://uri.fiware.org/ns/data-models#trainStation",
+        "train_station": "https://uri.fiware.org/ns/data-models#train_station",
         "tram": "https://uri.fiware.org/ns/data-models#tram",
         "transferType": {
             "@id": "https://uri.fiware.org/ns/data-models#transferType",
@@ -1825,7 +1823,6 @@
             "@id": "https://uri.fiware.org/ns/data-models#waterSource",
             "@type": "@vocab"
         },
-        "water_tower": "https://uri.fiware.org/ns/data-models#water_tower",
         "wateringFrequency": {
             "@id": "https://uri.fiware.org/ns/data-models#wateringFrequency",
             "@type": "@vocab"
