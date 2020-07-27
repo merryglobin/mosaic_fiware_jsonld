@@ -1,6 +1,6 @@
 {
     "@context": {        
-        {
+        
     "observedAt": {
             "@id": "https://uri.fiware.org/ns/data-models#observedAt",
             "@type": "https://uri.etsi.org/ngsi-ld/DateTime"
@@ -13,7 +13,7 @@
     },
     "speed": "https://uri.fiware.org/ns/data-models#speed",
     "location": "http://uri.etsi.org/ngsi-ld/location",
- 
-    }
+    "@vocab": "https://uri.etsi.org/ngsi-ld/default-context/"
+    
     }
 }
